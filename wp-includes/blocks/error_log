@@ -1,0 +1,80 @@
+[03-Oct-2023 21:13:53 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "ABSPATH" in /home/tidasports/public_html/wp-includes/blocks/index.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/tidasports/public_html/wp-includes/blocks/index.php on line 8
+[09-Oct-2023 07:53:54 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "ABSPATH" in /home/tidasports/public_html/wp-includes/blocks/index.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/tidasports/public_html/wp-includes/blocks/index.php on line 8
+[13-Oct-2023 05:46:29 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "ABSPATH" in /home/tidasports/public_html/wp-includes/blocks/index.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/tidasports/public_html/wp-includes/blocks/index.php on line 8
+[15-Oct-2023 01:28:17 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "ABSPATH" in /home/tidasports/public_html/wp-includes/blocks/index.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/tidasports/public_html/wp-includes/blocks/index.php on line 8
+[16-Oct-2023 02:51:13 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "ABSPATH" in /home/tidasports/public_html/wp-includes/blocks/index.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/tidasports/public_html/wp-includes/blocks/index.php on line 8
+[21-Oct-2023 01:24:38 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "ABSPATH" in /home/tidasports/public_html/wp-includes/blocks/index.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/tidasports/public_html/wp-includes/blocks/index.php on line 8
+[25-Oct-2023 17:30:51 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "ABSPATH" in /home/tidasports/public_html/wp-includes/blocks/index.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/tidasports/public_html/wp-includes/blocks/index.php on line 8
+[18-Nov-2023 11:00:09 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "ABSPATH" in /home/tidasports/public_html/wp-includes/blocks/index.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/tidasports/public_html/wp-includes/blocks/index.php on line 8
+[01-Dec-2023 09:57:07 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Undefined constant "ABSPATH" in /home/tidasports/public_html/wp-includes/blocks/index.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/tidasports/public_html/wp-includes/blocks/index.php on line 8
+[08-Dec-2023 21:36:15 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Undefined constant "ABSPATH" in /home/tidasports/public_html/wp-includes/blocks/index.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/tidasports/public_html/wp-includes/blocks/index.php on line 8
+[08-Dec-2023 21:39:53 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Undefined constant "ABSPATH" in /home/tidasports/public_html/wp-includes/blocks/index.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/tidasports/public_html/wp-includes/blocks/index.php on line 8
+[17-Dec-2023 13:31:02 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Undefined constant "ABSPATH" in /home/tidasports/public_html/wp-includes/blocks/index.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/tidasports/public_html/wp-includes/blocks/index.php on line 8
+[17-Dec-2023 13:50:50 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Undefined constant "ABSPATH" in /home/tidasports/public_html/wp-includes/blocks/index.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/tidasports/public_html/wp-includes/blocks/index.php on line 8
+[22-Jan-2024 07:06:11 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Undefined constant "ABSPATH" in /home/tidasports/public_html/wp-includes/blocks/index.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/tidasports/public_html/wp-includes/blocks/index.php on line 8
+[22-Jan-2024 07:08:11 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Undefined constant "ABSPATH" in /home/tidasports/public_html/wp-includes/blocks/index.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/tidasports/public_html/wp-includes/blocks/index.php on line 8
+[28-Jan-2024 15:08:11 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Undefined constant "ABSPATH" in /home/tidasports/public_html/wp-includes/blocks/index.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/tidasports/public_html/wp-includes/blocks/index.php on line 8
+[15-Feb-2024 20:32:55 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Undefined constant "ABSPATH" in /home/tidasports/public_html/wp-includes/blocks/index.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/tidasports/public_html/wp-includes/blocks/index.php on line 8
+[19-Mar-2024 08:21:54 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Undefined constant "ABSPATH" in /home/tidasports/public_html/wp-includes/blocks/index.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/tidasports/public_html/wp-includes/blocks/index.php on line 8
+[20-Mar-2024 20:29:12 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Undefined constant "ABSPATH" in /home/tidasports/public_html/wp-includes/blocks/index.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/tidasports/public_html/wp-includes/blocks/index.php on line 8
+[15-Apr-2024 10:54:54 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Undefined constant "ABSPATH" in /home/tidasports/public_html/wp-includes/blocks/index.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/tidasports/public_html/wp-includes/blocks/index.php on line 8

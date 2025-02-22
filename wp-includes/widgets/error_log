@@ -1,0 +1,20 @@
+[18-Nov-2023 11:01:39 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Widget" not found in /home/tidasports/public_html/wp-includes/widgets/class-wp-widget-block.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/tidasports/public_html/wp-includes/widgets/class-wp-widget-block.php on line 17
+[01-Dec-2023 09:58:58 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Class "WP_Widget" not found in /home/tidasports/public_html/wp-includes/widgets/class-wp-widget-block.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/tidasports/public_html/wp-includes/widgets/class-wp-widget-block.php on line 17
+[19-Mar-2024 08:22:44 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Class "WP_Widget" not found in /home/tidasports/public_html/wp-includes/widgets/class-wp-widget-block.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/tidasports/public_html/wp-includes/widgets/class-wp-widget-block.php on line 17
+[20-Mar-2024 20:30:35 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Class "WP_Widget" not found in /home/tidasports/public_html/wp-includes/widgets/class-wp-widget-block.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/tidasports/public_html/wp-includes/widgets/class-wp-widget-block.php on line 17
+[15-Apr-2024 10:55:51 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Class "WP_Widget" not found in /home/tidasports/public_html/wp-includes/widgets/class-wp-widget-block.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/tidasports/public_html/wp-includes/widgets/class-wp-widget-block.php on line 17

@@ -1,0 +1,7 @@
+@font-face {
+font-family: 'neutra-display';
+src: url(//tidasports.com/wp-content/uploads/useanyfont/2275NEUTRA-DISPLAY.woff2) format('woff2'),
+url(//tidasports.com/wp-content/uploads/useanyfont/2275NEUTRA-DISPLAY.woff) format('woff');
+font-weight: 700; font-style: normal; font-display: auto;
+}
+.neutra-display{font-family: 'neutra-display' !important;}

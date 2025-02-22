@@ -1,0 +1,156 @@
+/* General Dialog Styling */
+dialog#gravityFormDialog {
+    width: 90%;
+    max-width: 600px;
+    border: none;
+    border-radius: 8px;
+    box-shadow: 0 8px 16px rgba(0, 0, 0, 0.2);
+    padding: 20px;
+    font-family: Arial, sans-serif;
+    background-color: #ffffff;
+}
+
+dialog::backdrop {
+    position: fixed;
+    inset: 0px;
+    background: rgba(0, 0, 0, 0.5);
+}
+
+dialog::-webkit-scrollbar {
+  width: 4px;
+  height: 4px;
+}
+
+dialog::-webkit-scrollbar-thumb {
+  background: rgba(0,0,0,0.2);
+}
+
+dialog::-webkit-scrollbar-track {
+  background: rgba(0, 0, 0, 0.2);
+}
+
+
+/* Close Button */
+dialog#gravityFormDialog button {
+    background-color: #ff4d4f;
+    color: white;
+    border: none;
+    border-radius: 50%;
+    width: 30px;
+    height: 30px;
+    font-size: 16px;
+    font-weight: bold;
+    line-height: 30px;
+    text-align: center;
+    cursor: pointer;
+    position: absolute;
+    top: 10px;
+    right: 10px;
+    line-height: 1.4;
+    padding: 5px 10px;
+}
+
+dialog#gravityFormDialog button:hover {
+    background-color: #d9363e;
+}
+
+/* Form Heading */
+dialog#gravityFormDialog h2 {
+    margin: 0;
+    padding: 10px 0;
+    text-align: center;
+    font-size: 24px;
+    font-weight: bold;
+    color: #333333;
+    border-bottom: 1px solid #f0f0f0;
+}
+
+/* Form Description */
+.gform_description,
+.gform_required_legend {
+    margin: 10px 0;
+    text-align: center;
+    color: #555555;
+    font-size: 14px;
+}
+
+#gform_wrapper_5 .gform_heading{
+    display: none;
+}
+
+/* Field Labels */
+.gform-field-label {
+    font-weight: bold;
+    color: #333333;
+    margin-bottom: 5px;
+    display: block;
+}
+
+/* Input Fields */
+#gform_wrapper_5 .ginput_container input,
+#gform_wrapper_5 .ginput_container select,
+#gform_wrapper_5 .ginput_container textarea {
+    width: 100%;
+    padding: 10px;
+    border: 1px solid #d9d9d9;
+    border-radius: 4px;
+    margin-bottom: 15px;
+    font-size: 14px;
+    color: #333333;
+    border: 1px solid gainsboro;
+    background: #fff;
+}
+
+#gform_wrapper_5 .ginput_container input:focus,
+#gform_wrapper_5 .ginput_container select:focus,
+#gform_wrapper_5 .ginput_container textarea:focus {
+    border-color: #1890ff;
+    outline: none;
+    box-shadow: 0 0 5px rgba(24, 144, 255, 0.3);
+}
+
+#gform_wrapper_5 .gfield_description{
+    display: none;
+}
+
+/* Submit Button */
+#gform_wrapper_5 .gform_button {
+    display: block;
+    width: 100%;
+    padding: 10px 20px;
+    background-color: #04244C;
+    color: white;
+    border: none;
+    border-radius: 4px;
+    font-size: 16px;
+    font-weight: bold;
+    cursor: pointer;
+    text-align: center;
+}
+
+#gform_wrapper_5 .gform_button:hover {
+    background-color: #096dd9;
+}
+
+/* File Upload Rules */
+#gform_wrapper_5 .gform_fileupload_rules {
+    font-size: 12px;
+    color: #666666;
+    margin-top: 5px;
+}
+
+/* Responsive Design */
+@media (max-width: 480px) {
+    dialog#gravityFormDialog {
+        width: 94%;
+        border-radius: 0;
+    }
+
+    #gform_wrapper_5 .gform_button {
+        font-size: 14px;
+    }
+
+    dialog#gravityFormDialog h2 {
+        font-size: 20px;
+    }
+}

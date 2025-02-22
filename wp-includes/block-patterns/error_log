@@ -1,0 +1,96 @@
+[08-Dec-2023 21:38:42 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Call to undefined function _x() in /home/tidasports/public_html/wp-includes/block-patterns/query-grid-posts.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/tidasports/public_html/wp-includes/block-patterns/query-grid-posts.php on line 9
+[08-Dec-2023 21:38:44 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Call to undefined function _x() in /home/tidasports/public_html/wp-includes/block-patterns/query-grid-posts.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/tidasports/public_html/wp-includes/block-patterns/query-grid-posts.php on line 9
+[08-Dec-2023 21:38:47 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Call to undefined function _x() in /home/tidasports/public_html/wp-includes/block-patterns/query-medium-posts.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/tidasports/public_html/wp-includes/block-patterns/query-medium-posts.php on line 9
+[08-Dec-2023 21:38:49 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Call to undefined function _x() in /home/tidasports/public_html/wp-includes/block-patterns/query-medium-posts.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/tidasports/public_html/wp-includes/block-patterns/query-medium-posts.php on line 9
+[08-Dec-2023 21:38:54 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Call to undefined function _x() in /home/tidasports/public_html/wp-includes/block-patterns/query-offset-posts.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/tidasports/public_html/wp-includes/block-patterns/query-offset-posts.php on line 9
+[08-Dec-2023 21:38:55 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Call to undefined function _x() in /home/tidasports/public_html/wp-includes/block-patterns/query-offset-posts.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/tidasports/public_html/wp-includes/block-patterns/query-offset-posts.php on line 9
+[08-Dec-2023 21:38:57 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Call to undefined function _x() in /home/tidasports/public_html/wp-includes/block-patterns/query-small-posts.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/tidasports/public_html/wp-includes/block-patterns/query-small-posts.php on line 9
+[08-Dec-2023 21:38:59 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Call to undefined function _x() in /home/tidasports/public_html/wp-includes/block-patterns/query-small-posts.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/tidasports/public_html/wp-includes/block-patterns/query-small-posts.php on line 9
+[17-Dec-2023 13:45:28 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Call to undefined function _x() in /home/tidasports/public_html/wp-includes/block-patterns/query-grid-posts.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/tidasports/public_html/wp-includes/block-patterns/query-grid-posts.php on line 9
+[17-Dec-2023 13:45:29 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Call to undefined function _x() in /home/tidasports/public_html/wp-includes/block-patterns/query-grid-posts.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/tidasports/public_html/wp-includes/block-patterns/query-grid-posts.php on line 9
+[17-Dec-2023 13:45:59 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Call to undefined function _x() in /home/tidasports/public_html/wp-includes/block-patterns/query-medium-posts.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/tidasports/public_html/wp-includes/block-patterns/query-medium-posts.php on line 9
+[17-Dec-2023 13:46:00 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Call to undefined function _x() in /home/tidasports/public_html/wp-includes/block-patterns/query-medium-posts.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/tidasports/public_html/wp-includes/block-patterns/query-medium-posts.php on line 9
+[17-Dec-2023 13:46:23 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Call to undefined function _x() in /home/tidasports/public_html/wp-includes/block-patterns/query-offset-posts.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/tidasports/public_html/wp-includes/block-patterns/query-offset-posts.php on line 9
+[17-Dec-2023 13:46:24 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Call to undefined function _x() in /home/tidasports/public_html/wp-includes/block-patterns/query-offset-posts.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/tidasports/public_html/wp-includes/block-patterns/query-offset-posts.php on line 9
+[17-Dec-2023 13:46:45 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Call to undefined function _x() in /home/tidasports/public_html/wp-includes/block-patterns/query-small-posts.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/tidasports/public_html/wp-includes/block-patterns/query-small-posts.php on line 9
+[17-Dec-2023 13:46:47 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Call to undefined function _x() in /home/tidasports/public_html/wp-includes/block-patterns/query-small-posts.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/tidasports/public_html/wp-includes/block-patterns/query-small-posts.php on line 9
+[22-Jan-2024 07:07:33 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Call to undefined function _x() in /home/tidasports/public_html/wp-includes/block-patterns/query-grid-posts.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/tidasports/public_html/wp-includes/block-patterns/query-grid-posts.php on line 9
+[22-Jan-2024 07:07:34 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Call to undefined function _x() in /home/tidasports/public_html/wp-includes/block-patterns/query-grid-posts.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/tidasports/public_html/wp-includes/block-patterns/query-grid-posts.php on line 9
+[22-Jan-2024 07:07:35 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Call to undefined function _x() in /home/tidasports/public_html/wp-includes/block-patterns/query-medium-posts.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/tidasports/public_html/wp-includes/block-patterns/query-medium-posts.php on line 9
+[22-Jan-2024 07:07:36 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Call to undefined function _x() in /home/tidasports/public_html/wp-includes/block-patterns/query-medium-posts.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/tidasports/public_html/wp-includes/block-patterns/query-medium-posts.php on line 9
+[22-Jan-2024 07:07:37 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Call to undefined function _x() in /home/tidasports/public_html/wp-includes/block-patterns/query-offset-posts.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/tidasports/public_html/wp-includes/block-patterns/query-offset-posts.php on line 9
+[22-Jan-2024 07:07:38 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Call to undefined function _x() in /home/tidasports/public_html/wp-includes/block-patterns/query-offset-posts.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/tidasports/public_html/wp-includes/block-patterns/query-offset-posts.php on line 9
+[22-Jan-2024 07:07:40 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Call to undefined function _x() in /home/tidasports/public_html/wp-includes/block-patterns/query-small-posts.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/tidasports/public_html/wp-includes/block-patterns/query-small-posts.php on line 9
+[22-Jan-2024 07:07:41 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Call to undefined function _x() in /home/tidasports/public_html/wp-includes/block-patterns/query-small-posts.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/tidasports/public_html/wp-includes/block-patterns/query-small-posts.php on line 9

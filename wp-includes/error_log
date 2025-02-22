@@ -1,0 +1,248 @@
+[13-Oct-2023 05:38:02 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function add_filter() in /home/tidasports/public_html/wp-includes/navigation-fallback.php:53
+Stack trace:
+#0 {main}
+  thrown in /home/tidasports/public_html/wp-includes/navigation-fallback.php on line 53
+[13-Oct-2023 05:38:09 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function add_filter() in /home/tidasports/public_html/wp-includes/navigation-fallback.php:53
+Stack trace:
+#0 {main}
+  thrown in /home/tidasports/public_html/wp-includes/navigation-fallback.php on line 53
+[15-Oct-2023 00:54:48 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function add_filter() in /home/tidasports/public_html/wp-includes/navigation-fallback.php:53
+Stack trace:
+#0 {main}
+  thrown in /home/tidasports/public_html/wp-includes/navigation-fallback.php on line 53
+[15-Oct-2023 00:54:53 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function add_filter() in /home/tidasports/public_html/wp-includes/navigation-fallback.php:53
+Stack trace:
+#0 {main}
+  thrown in /home/tidasports/public_html/wp-includes/navigation-fallback.php on line 53
+[16-Oct-2023 02:43:21 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function add_filter() in /home/tidasports/public_html/wp-includes/navigation-fallback.php:53
+Stack trace:
+#0 {main}
+  thrown in /home/tidasports/public_html/wp-includes/navigation-fallback.php on line 53
+[16-Oct-2023 02:43:23 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function add_filter() in /home/tidasports/public_html/wp-includes/navigation-fallback.php:53
+Stack trace:
+#0 {main}
+  thrown in /home/tidasports/public_html/wp-includes/navigation-fallback.php on line 53
+[21-Oct-2023 00:57:47 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function add_filter() in /home/tidasports/public_html/wp-includes/navigation-fallback.php:53
+Stack trace:
+#0 {main}
+  thrown in /home/tidasports/public_html/wp-includes/navigation-fallback.php on line 53
+[21-Oct-2023 00:57:49 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function add_filter() in /home/tidasports/public_html/wp-includes/navigation-fallback.php:53
+Stack trace:
+#0 {main}
+  thrown in /home/tidasports/public_html/wp-includes/navigation-fallback.php on line 53
+[25-Oct-2023 16:48:25 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function add_filter() in /home/tidasports/public_html/wp-includes/navigation-fallback.php:53
+Stack trace:
+#0 {main}
+  thrown in /home/tidasports/public_html/wp-includes/navigation-fallback.php on line 53
+[25-Oct-2023 16:48:32 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function add_filter() in /home/tidasports/public_html/wp-includes/navigation-fallback.php:53
+Stack trace:
+#0 {main}
+  thrown in /home/tidasports/public_html/wp-includes/navigation-fallback.php on line 53
+[18-Nov-2023 10:54:02 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "ABSPATH" in /home/tidasports/public_html/wp-includes/class-wp-http.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/tidasports/public_html/wp-includes/class-wp-http.php on line 11
+[18-Nov-2023 10:54:20 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Dependencies" not found in /home/tidasports/public_html/wp-includes/class-wp-scripts.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/tidasports/public_html/wp-includes/class-wp-scripts.php on line 18
+[18-Nov-2023 10:54:28 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Dependencies" not found in /home/tidasports/public_html/wp-includes/class-wp-styles.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/tidasports/public_html/wp-includes/class-wp-styles.php on line 18
+[18-Nov-2023 10:56:14 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function add_filter() in /home/tidasports/public_html/wp-includes/navigation-fallback.php:53
+Stack trace:
+#0 {main}
+  thrown in /home/tidasports/public_html/wp-includes/navigation-fallback.php on line 53
+[18-Nov-2023 10:56:49 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_the_block_template_html() in /home/tidasports/public_html/wp-includes/template-canvas.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/tidasports/public_html/wp-includes/template-canvas.php on line 12
+[01-Dec-2023 09:51:07 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Undefined constant "ABSPATH" in /home/tidasports/public_html/wp-includes/class-wp-http.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/tidasports/public_html/wp-includes/class-wp-http.php on line 11
+[01-Dec-2023 09:51:33 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Class "WP_Dependencies" not found in /home/tidasports/public_html/wp-includes/class-wp-scripts.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/tidasports/public_html/wp-includes/class-wp-scripts.php on line 18
+[01-Dec-2023 09:51:47 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Class "WP_Dependencies" not found in /home/tidasports/public_html/wp-includes/class-wp-styles.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/tidasports/public_html/wp-includes/class-wp-styles.php on line 18
+[01-Dec-2023 09:53:23 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Call to undefined function add_filter() in /home/tidasports/public_html/wp-includes/navigation-fallback.php:53
+Stack trace:
+#0 {main}
+  thrown in /home/tidasports/public_html/wp-includes/navigation-fallback.php on line 53
+[01-Dec-2023 09:53:56 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Call to undefined function get_the_block_template_html() in /home/tidasports/public_html/wp-includes/template-canvas.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/tidasports/public_html/wp-includes/template-canvas.php on line 12
+[08-Dec-2023 21:34:51 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Undefined constant "ABSPATH" in /home/tidasports/public_html/wp-includes/class-wp-http.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/tidasports/public_html/wp-includes/class-wp-http.php on line 11
+[08-Dec-2023 21:34:53 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Undefined constant "ABSPATH" in /home/tidasports/public_html/wp-includes/class-wp-http.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/tidasports/public_html/wp-includes/class-wp-http.php on line 11
+[08-Dec-2023 21:34:56 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Class "WP_Dependencies" not found in /home/tidasports/public_html/wp-includes/class-wp-scripts.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/tidasports/public_html/wp-includes/class-wp-scripts.php on line 18
+[08-Dec-2023 21:34:58 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Class "WP_Dependencies" not found in /home/tidasports/public_html/wp-includes/class-wp-scripts.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/tidasports/public_html/wp-includes/class-wp-scripts.php on line 18
+[08-Dec-2023 21:35:00 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Class "WP_Dependencies" not found in /home/tidasports/public_html/wp-includes/class-wp-styles.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/tidasports/public_html/wp-includes/class-wp-styles.php on line 18
+[08-Dec-2023 21:35:02 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Class "WP_Dependencies" not found in /home/tidasports/public_html/wp-includes/class-wp-styles.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/tidasports/public_html/wp-includes/class-wp-styles.php on line 18
+[08-Dec-2023 21:35:15 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Call to undefined function add_filter() in /home/tidasports/public_html/wp-includes/navigation-fallback.php:53
+Stack trace:
+#0 {main}
+  thrown in /home/tidasports/public_html/wp-includes/navigation-fallback.php on line 53
+[08-Dec-2023 21:35:17 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Call to undefined function add_filter() in /home/tidasports/public_html/wp-includes/navigation-fallback.php:53
+Stack trace:
+#0 {main}
+  thrown in /home/tidasports/public_html/wp-includes/navigation-fallback.php on line 53
+[08-Dec-2023 21:35:26 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Call to undefined function get_the_block_template_html() in /home/tidasports/public_html/wp-includes/template-canvas.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/tidasports/public_html/wp-includes/template-canvas.php on line 12
+[08-Dec-2023 21:35:28 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Call to undefined function get_the_block_template_html() in /home/tidasports/public_html/wp-includes/template-canvas.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/tidasports/public_html/wp-includes/template-canvas.php on line 12
+[17-Dec-2023 13:24:49 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Undefined constant "ABSPATH" in /home/tidasports/public_html/wp-includes/class-wp-http.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/tidasports/public_html/wp-includes/class-wp-http.php on line 11
+[17-Dec-2023 13:24:50 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Undefined constant "ABSPATH" in /home/tidasports/public_html/wp-includes/class-wp-http.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/tidasports/public_html/wp-includes/class-wp-http.php on line 11
+[17-Dec-2023 13:25:09 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Class "WP_Dependencies" not found in /home/tidasports/public_html/wp-includes/class-wp-scripts.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/tidasports/public_html/wp-includes/class-wp-scripts.php on line 18
+[17-Dec-2023 13:25:10 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Class "WP_Dependencies" not found in /home/tidasports/public_html/wp-includes/class-wp-scripts.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/tidasports/public_html/wp-includes/class-wp-scripts.php on line 18
+[17-Dec-2023 13:25:34 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Class "WP_Dependencies" not found in /home/tidasports/public_html/wp-includes/class-wp-styles.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/tidasports/public_html/wp-includes/class-wp-styles.php on line 18
+[17-Dec-2023 13:25:35 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Class "WP_Dependencies" not found in /home/tidasports/public_html/wp-includes/class-wp-styles.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/tidasports/public_html/wp-includes/class-wp-styles.php on line 18
+[17-Dec-2023 13:26:32 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Call to undefined function add_filter() in /home/tidasports/public_html/wp-includes/navigation-fallback.php:53
+Stack trace:
+#0 {main}
+  thrown in /home/tidasports/public_html/wp-includes/navigation-fallback.php on line 53
+[17-Dec-2023 13:26:33 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Call to undefined function add_filter() in /home/tidasports/public_html/wp-includes/navigation-fallback.php:53
+Stack trace:
+#0 {main}
+  thrown in /home/tidasports/public_html/wp-includes/navigation-fallback.php on line 53
+[17-Dec-2023 13:27:01 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Call to undefined function get_the_block_template_html() in /home/tidasports/public_html/wp-includes/template-canvas.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/tidasports/public_html/wp-includes/template-canvas.php on line 12
+[17-Dec-2023 13:27:02 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Call to undefined function get_the_block_template_html() in /home/tidasports/public_html/wp-includes/template-canvas.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/tidasports/public_html/wp-includes/template-canvas.php on line 12
+[22-Jan-2024 07:05:27 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Undefined constant "ABSPATH" in /home/tidasports/public_html/wp-includes/class-wp-http.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/tidasports/public_html/wp-includes/class-wp-http.php on line 11
+[22-Jan-2024 07:05:28 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Undefined constant "ABSPATH" in /home/tidasports/public_html/wp-includes/class-wp-http.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/tidasports/public_html/wp-includes/class-wp-http.php on line 11
+[22-Jan-2024 07:05:30 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Class "WP_Dependencies" not found in /home/tidasports/public_html/wp-includes/class-wp-scripts.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/tidasports/public_html/wp-includes/class-wp-scripts.php on line 18
+[22-Jan-2024 07:05:31 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Class "WP_Dependencies" not found in /home/tidasports/public_html/wp-includes/class-wp-scripts.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/tidasports/public_html/wp-includes/class-wp-scripts.php on line 18
+[22-Jan-2024 07:05:33 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Class "WP_Dependencies" not found in /home/tidasports/public_html/wp-includes/class-wp-styles.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/tidasports/public_html/wp-includes/class-wp-styles.php on line 18
+[22-Jan-2024 07:05:34 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Class "WP_Dependencies" not found in /home/tidasports/public_html/wp-includes/class-wp-styles.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/tidasports/public_html/wp-includes/class-wp-styles.php on line 18
+[22-Jan-2024 07:05:40 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Call to undefined function add_filter() in /home/tidasports/public_html/wp-includes/navigation-fallback.php:53
+Stack trace:
+#0 {main}
+  thrown in /home/tidasports/public_html/wp-includes/navigation-fallback.php on line 53
+[22-Jan-2024 07:05:41 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Call to undefined function add_filter() in /home/tidasports/public_html/wp-includes/navigation-fallback.php:53
+Stack trace:
+#0 {main}
+  thrown in /home/tidasports/public_html/wp-includes/navigation-fallback.php on line 53
+[22-Jan-2024 07:05:45 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Call to undefined function get_the_block_template_html() in /home/tidasports/public_html/wp-includes/template-canvas.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/tidasports/public_html/wp-includes/template-canvas.php on line 12
+[22-Jan-2024 07:05:46 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Call to undefined function get_the_block_template_html() in /home/tidasports/public_html/wp-includes/template-canvas.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/tidasports/public_html/wp-includes/template-canvas.php on line 12
+[19-Mar-2024 08:20:27 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Undefined constant "ABSPATH" in /home/tidasports/public_html/wp-includes/class-wp-http.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/tidasports/public_html/wp-includes/class-wp-http.php on line 11
+[19-Mar-2024 08:20:31 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Class "WP_Dependencies" not found in /home/tidasports/public_html/wp-includes/class-wp-scripts.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/tidasports/public_html/wp-includes/class-wp-scripts.php on line 18
+[19-Mar-2024 08:20:33 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Class "WP_Dependencies" not found in /home/tidasports/public_html/wp-includes/class-wp-styles.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/tidasports/public_html/wp-includes/class-wp-styles.php on line 18
+[19-Mar-2024 08:21:11 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Call to undefined function get_the_block_template_html() in /home/tidasports/public_html/wp-includes/template-canvas.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/tidasports/public_html/wp-includes/template-canvas.php on line 12
+[20-Mar-2024 20:23:55 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Undefined constant "ABSPATH" in /home/tidasports/public_html/wp-includes/class-wp-http.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/tidasports/public_html/wp-includes/class-wp-http.php on line 11
+[20-Mar-2024 20:24:12 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Class "WP_Dependencies" not found in /home/tidasports/public_html/wp-includes/class-wp-scripts.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/tidasports/public_html/wp-includes/class-wp-scripts.php on line 18
+[20-Mar-2024 20:24:22 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Class "WP_Dependencies" not found in /home/tidasports/public_html/wp-includes/class-wp-styles.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/tidasports/public_html/wp-includes/class-wp-styles.php on line 18
+[20-Mar-2024 20:26:26 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Call to undefined function get_the_block_template_html() in /home/tidasports/public_html/wp-includes/template-canvas.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/tidasports/public_html/wp-includes/template-canvas.php on line 12
+[15-Apr-2024 10:51:05 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Undefined constant "ABSPATH" in /home/tidasports/public_html/wp-includes/class-wp-http.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/tidasports/public_html/wp-includes/class-wp-http.php on line 11
+[15-Apr-2024 10:51:28 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Class "WP_Dependencies" not found in /home/tidasports/public_html/wp-includes/class-wp-scripts.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/tidasports/public_html/wp-includes/class-wp-scripts.php on line 18
+[15-Apr-2024 10:51:35 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Class "WP_Dependencies" not found in /home/tidasports/public_html/wp-includes/class-wp-styles.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/tidasports/public_html/wp-includes/class-wp-styles.php on line 18
+[15-Apr-2024 10:53:04 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Call to undefined function get_the_block_template_html() in /home/tidasports/public_html/wp-includes/template-canvas.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/tidasports/public_html/wp-includes/template-canvas.php on line 12

@@ -1,0 +1,376 @@
+[13-Oct-2023 05:45:42 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Block_Supports" not found in /home/tidasports/public_html/wp-includes/block-supports/position.php:145
+Stack trace:
+#0 {main}
+  thrown in /home/tidasports/public_html/wp-includes/block-supports/position.php on line 145
+[13-Oct-2023 05:45:43 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Block_Supports" not found in /home/tidasports/public_html/wp-includes/block-supports/position.php:145
+Stack trace:
+#0 {main}
+  thrown in /home/tidasports/public_html/wp-includes/block-supports/position.php on line 145
+[13-Oct-2023 05:45:51 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function add_filter() in /home/tidasports/public_html/wp-includes/block-supports/settings.php:151
+Stack trace:
+#0 {main}
+  thrown in /home/tidasports/public_html/wp-includes/block-supports/settings.php on line 151
+[13-Oct-2023 05:45:52 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function add_filter() in /home/tidasports/public_html/wp-includes/block-supports/settings.php:151
+Stack trace:
+#0 {main}
+  thrown in /home/tidasports/public_html/wp-includes/block-supports/settings.php on line 151
+[13-Oct-2023 05:46:03 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Block_Supports" not found in /home/tidasports/public_html/wp-includes/block-supports/shadow.php:76
+Stack trace:
+#0 {main}
+  thrown in /home/tidasports/public_html/wp-includes/block-supports/shadow.php on line 76
+[13-Oct-2023 05:46:05 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Block_Supports" not found in /home/tidasports/public_html/wp-includes/block-supports/shadow.php:76
+Stack trace:
+#0 {main}
+  thrown in /home/tidasports/public_html/wp-includes/block-supports/shadow.php on line 76
+[13-Oct-2023 05:46:14 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Block_Supports" not found in /home/tidasports/public_html/wp-includes/block-supports/spacing.php:76
+Stack trace:
+#0 {main}
+  thrown in /home/tidasports/public_html/wp-includes/block-supports/spacing.php on line 76
+[13-Oct-2023 05:46:18 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Block_Supports" not found in /home/tidasports/public_html/wp-includes/block-supports/spacing.php:76
+Stack trace:
+#0 {main}
+  thrown in /home/tidasports/public_html/wp-includes/block-supports/spacing.php on line 76
+[15-Oct-2023 01:26:41 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Block_Supports" not found in /home/tidasports/public_html/wp-includes/block-supports/position.php:145
+Stack trace:
+#0 {main}
+  thrown in /home/tidasports/public_html/wp-includes/block-supports/position.php on line 145
+[15-Oct-2023 01:26:45 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Block_Supports" not found in /home/tidasports/public_html/wp-includes/block-supports/position.php:145
+Stack trace:
+#0 {main}
+  thrown in /home/tidasports/public_html/wp-includes/block-supports/position.php on line 145
+[15-Oct-2023 01:26:49 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function add_filter() in /home/tidasports/public_html/wp-includes/block-supports/settings.php:151
+Stack trace:
+#0 {main}
+  thrown in /home/tidasports/public_html/wp-includes/block-supports/settings.php on line 151
+[15-Oct-2023 01:26:52 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function add_filter() in /home/tidasports/public_html/wp-includes/block-supports/settings.php:151
+Stack trace:
+#0 {main}
+  thrown in /home/tidasports/public_html/wp-includes/block-supports/settings.php on line 151
+[15-Oct-2023 01:26:58 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Block_Supports" not found in /home/tidasports/public_html/wp-includes/block-supports/shadow.php:76
+Stack trace:
+#0 {main}
+  thrown in /home/tidasports/public_html/wp-includes/block-supports/shadow.php on line 76
+[15-Oct-2023 01:27:04 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Block_Supports" not found in /home/tidasports/public_html/wp-includes/block-supports/shadow.php:76
+Stack trace:
+#0 {main}
+  thrown in /home/tidasports/public_html/wp-includes/block-supports/shadow.php on line 76
+[15-Oct-2023 01:27:07 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Block_Supports" not found in /home/tidasports/public_html/wp-includes/block-supports/spacing.php:76
+Stack trace:
+#0 {main}
+  thrown in /home/tidasports/public_html/wp-includes/block-supports/spacing.php on line 76
+[15-Oct-2023 01:27:11 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Block_Supports" not found in /home/tidasports/public_html/wp-includes/block-supports/spacing.php:76
+Stack trace:
+#0 {main}
+  thrown in /home/tidasports/public_html/wp-includes/block-supports/spacing.php on line 76
+[16-Oct-2023 02:50:40 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Block_Supports" not found in /home/tidasports/public_html/wp-includes/block-supports/position.php:145
+Stack trace:
+#0 {main}
+  thrown in /home/tidasports/public_html/wp-includes/block-supports/position.php on line 145
+[16-Oct-2023 02:50:40 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Block_Supports" not found in /home/tidasports/public_html/wp-includes/block-supports/position.php:145
+Stack trace:
+#0 {main}
+  thrown in /home/tidasports/public_html/wp-includes/block-supports/position.php on line 145
+[16-Oct-2023 02:50:45 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function add_filter() in /home/tidasports/public_html/wp-includes/block-supports/settings.php:151
+Stack trace:
+#0 {main}
+  thrown in /home/tidasports/public_html/wp-includes/block-supports/settings.php on line 151
+[16-Oct-2023 02:50:46 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function add_filter() in /home/tidasports/public_html/wp-includes/block-supports/settings.php:151
+Stack trace:
+#0 {main}
+  thrown in /home/tidasports/public_html/wp-includes/block-supports/settings.php on line 151
+[16-Oct-2023 02:50:50 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Block_Supports" not found in /home/tidasports/public_html/wp-includes/block-supports/shadow.php:76
+Stack trace:
+#0 {main}
+  thrown in /home/tidasports/public_html/wp-includes/block-supports/shadow.php on line 76
+[16-Oct-2023 02:50:51 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Block_Supports" not found in /home/tidasports/public_html/wp-includes/block-supports/shadow.php:76
+Stack trace:
+#0 {main}
+  thrown in /home/tidasports/public_html/wp-includes/block-supports/shadow.php on line 76
+[16-Oct-2023 02:51:04 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Block_Supports" not found in /home/tidasports/public_html/wp-includes/block-supports/spacing.php:76
+Stack trace:
+#0 {main}
+  thrown in /home/tidasports/public_html/wp-includes/block-supports/spacing.php on line 76
+[16-Oct-2023 02:51:05 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Block_Supports" not found in /home/tidasports/public_html/wp-includes/block-supports/spacing.php:76
+Stack trace:
+#0 {main}
+  thrown in /home/tidasports/public_html/wp-includes/block-supports/spacing.php on line 76
+[21-Oct-2023 01:23:28 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Block_Supports" not found in /home/tidasports/public_html/wp-includes/block-supports/position.php:145
+Stack trace:
+#0 {main}
+  thrown in /home/tidasports/public_html/wp-includes/block-supports/position.php on line 145
+[21-Oct-2023 01:23:34 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Block_Supports" not found in /home/tidasports/public_html/wp-includes/block-supports/position.php:145
+Stack trace:
+#0 {main}
+  thrown in /home/tidasports/public_html/wp-includes/block-supports/position.php on line 145
+[21-Oct-2023 01:23:40 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function add_filter() in /home/tidasports/public_html/wp-includes/block-supports/settings.php:151
+Stack trace:
+#0 {main}
+  thrown in /home/tidasports/public_html/wp-includes/block-supports/settings.php on line 151
+[21-Oct-2023 01:23:42 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function add_filter() in /home/tidasports/public_html/wp-includes/block-supports/settings.php:151
+Stack trace:
+#0 {main}
+  thrown in /home/tidasports/public_html/wp-includes/block-supports/settings.php on line 151
+[21-Oct-2023 01:23:51 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Block_Supports" not found in /home/tidasports/public_html/wp-includes/block-supports/shadow.php:76
+Stack trace:
+#0 {main}
+  thrown in /home/tidasports/public_html/wp-includes/block-supports/shadow.php on line 76
+[21-Oct-2023 01:23:55 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Block_Supports" not found in /home/tidasports/public_html/wp-includes/block-supports/shadow.php:76
+Stack trace:
+#0 {main}
+  thrown in /home/tidasports/public_html/wp-includes/block-supports/shadow.php on line 76
+[21-Oct-2023 01:24:03 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Block_Supports" not found in /home/tidasports/public_html/wp-includes/block-supports/spacing.php:76
+Stack trace:
+#0 {main}
+  thrown in /home/tidasports/public_html/wp-includes/block-supports/spacing.php on line 76
+[21-Oct-2023 01:24:07 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Block_Supports" not found in /home/tidasports/public_html/wp-includes/block-supports/spacing.php:76
+Stack trace:
+#0 {main}
+  thrown in /home/tidasports/public_html/wp-includes/block-supports/spacing.php on line 76
+[25-Oct-2023 17:28:21 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Block_Supports" not found in /home/tidasports/public_html/wp-includes/block-supports/position.php:145
+Stack trace:
+#0 {main}
+  thrown in /home/tidasports/public_html/wp-includes/block-supports/position.php on line 145
+[25-Oct-2023 17:28:37 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Block_Supports" not found in /home/tidasports/public_html/wp-includes/block-supports/position.php:145
+Stack trace:
+#0 {main}
+  thrown in /home/tidasports/public_html/wp-includes/block-supports/position.php on line 145
+[25-Oct-2023 17:28:50 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function add_filter() in /home/tidasports/public_html/wp-includes/block-supports/settings.php:151
+Stack trace:
+#0 {main}
+  thrown in /home/tidasports/public_html/wp-includes/block-supports/settings.php on line 151
+[25-Oct-2023 17:28:57 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function add_filter() in /home/tidasports/public_html/wp-includes/block-supports/settings.php:151
+Stack trace:
+#0 {main}
+  thrown in /home/tidasports/public_html/wp-includes/block-supports/settings.php on line 151
+[25-Oct-2023 17:29:12 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Block_Supports" not found in /home/tidasports/public_html/wp-includes/block-supports/shadow.php:76
+Stack trace:
+#0 {main}
+  thrown in /home/tidasports/public_html/wp-includes/block-supports/shadow.php on line 76
+[25-Oct-2023 17:29:17 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Block_Supports" not found in /home/tidasports/public_html/wp-includes/block-supports/shadow.php:76
+Stack trace:
+#0 {main}
+  thrown in /home/tidasports/public_html/wp-includes/block-supports/shadow.php on line 76
+[25-Oct-2023 17:29:41 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Block_Supports" not found in /home/tidasports/public_html/wp-includes/block-supports/spacing.php:76
+Stack trace:
+#0 {main}
+  thrown in /home/tidasports/public_html/wp-includes/block-supports/spacing.php on line 76
+[25-Oct-2023 17:29:43 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Block_Supports" not found in /home/tidasports/public_html/wp-includes/block-supports/spacing.php:76
+Stack trace:
+#0 {main}
+  thrown in /home/tidasports/public_html/wp-includes/block-supports/spacing.php on line 76
+[08-Dec-2023 21:39:07 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Class "WP_Block_Supports" not found in /home/tidasports/public_html/wp-includes/block-supports/border.php:168
+Stack trace:
+#0 {main}
+  thrown in /home/tidasports/public_html/wp-includes/block-supports/border.php on line 168
+[08-Dec-2023 21:39:09 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Class "WP_Block_Supports" not found in /home/tidasports/public_html/wp-includes/block-supports/border.php:168
+Stack trace:
+#0 {main}
+  thrown in /home/tidasports/public_html/wp-includes/block-supports/border.php on line 168
+[08-Dec-2023 21:39:12 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Class "WP_Block_Supports" not found in /home/tidasports/public_html/wp-includes/block-supports/dimensions.php:82
+Stack trace:
+#0 {main}
+  thrown in /home/tidasports/public_html/wp-includes/block-supports/dimensions.php on line 82
+[08-Dec-2023 21:39:14 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Class "WP_Block_Supports" not found in /home/tidasports/public_html/wp-includes/block-supports/dimensions.php:82
+Stack trace:
+#0 {main}
+  thrown in /home/tidasports/public_html/wp-includes/block-supports/dimensions.php on line 82
+[08-Dec-2023 21:39:16 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Class "WP_Block_Supports" not found in /home/tidasports/public_html/wp-includes/block-supports/duotone.php:36
+Stack trace:
+#0 {main}
+  thrown in /home/tidasports/public_html/wp-includes/block-supports/duotone.php on line 36
+[08-Dec-2023 21:39:20 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Class "WP_Block_Supports" not found in /home/tidasports/public_html/wp-includes/block-supports/duotone.php:36
+Stack trace:
+#0 {main}
+  thrown in /home/tidasports/public_html/wp-includes/block-supports/duotone.php on line 36
+[08-Dec-2023 21:39:22 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Call to undefined function add_filter() in /home/tidasports/public_html/wp-includes/block-supports/elements.php:125
+Stack trace:
+#0 {main}
+  thrown in /home/tidasports/public_html/wp-includes/block-supports/elements.php on line 125
+[08-Dec-2023 21:39:24 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Call to undefined function add_filter() in /home/tidasports/public_html/wp-includes/block-supports/elements.php:125
+Stack trace:
+#0 {main}
+  thrown in /home/tidasports/public_html/wp-includes/block-supports/elements.php on line 125
+[08-Dec-2023 21:39:28 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Class "WP_Block_Supports" not found in /home/tidasports/public_html/wp-includes/block-supports/layout.php:751
+Stack trace:
+#0 {main}
+  thrown in /home/tidasports/public_html/wp-includes/block-supports/layout.php on line 751
+[08-Dec-2023 21:39:29 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Class "WP_Block_Supports" not found in /home/tidasports/public_html/wp-includes/block-supports/layout.php:751
+Stack trace:
+#0 {main}
+  thrown in /home/tidasports/public_html/wp-includes/block-supports/layout.php on line 751
+[08-Dec-2023 21:39:31 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Class "WP_Block_Supports" not found in /home/tidasports/public_html/wp-includes/block-supports/position.php:145
+Stack trace:
+#0 {main}
+  thrown in /home/tidasports/public_html/wp-includes/block-supports/position.php on line 145
+[08-Dec-2023 21:39:33 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Class "WP_Block_Supports" not found in /home/tidasports/public_html/wp-includes/block-supports/position.php:145
+Stack trace:
+#0 {main}
+  thrown in /home/tidasports/public_html/wp-includes/block-supports/position.php on line 145
+[08-Dec-2023 21:39:36 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Call to undefined function add_filter() in /home/tidasports/public_html/wp-includes/block-supports/settings.php:151
+Stack trace:
+#0 {main}
+  thrown in /home/tidasports/public_html/wp-includes/block-supports/settings.php on line 151
+[08-Dec-2023 21:39:37 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Call to undefined function add_filter() in /home/tidasports/public_html/wp-includes/block-supports/settings.php:151
+Stack trace:
+#0 {main}
+  thrown in /home/tidasports/public_html/wp-includes/block-supports/settings.php on line 151
+[08-Dec-2023 21:39:40 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Class "WP_Block_Supports" not found in /home/tidasports/public_html/wp-includes/block-supports/shadow.php:76
+Stack trace:
+#0 {main}
+  thrown in /home/tidasports/public_html/wp-includes/block-supports/shadow.php on line 76
+[08-Dec-2023 21:39:42 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Class "WP_Block_Supports" not found in /home/tidasports/public_html/wp-includes/block-supports/shadow.php:76
+Stack trace:
+#0 {main}
+  thrown in /home/tidasports/public_html/wp-includes/block-supports/shadow.php on line 76
+[08-Dec-2023 21:39:44 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Class "WP_Block_Supports" not found in /home/tidasports/public_html/wp-includes/block-supports/spacing.php:76
+Stack trace:
+#0 {main}
+  thrown in /home/tidasports/public_html/wp-includes/block-supports/spacing.php on line 76
+[08-Dec-2023 21:39:46 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Class "WP_Block_Supports" not found in /home/tidasports/public_html/wp-includes/block-supports/spacing.php:76
+Stack trace:
+#0 {main}
+  thrown in /home/tidasports/public_html/wp-includes/block-supports/spacing.php on line 76
+[17-Dec-2023 13:47:32 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Class "WP_Block_Supports" not found in /home/tidasports/public_html/wp-includes/block-supports/border.php:168
+Stack trace:
+#0 {main}
+  thrown in /home/tidasports/public_html/wp-includes/block-supports/border.php on line 168
+[17-Dec-2023 13:47:33 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Class "WP_Block_Supports" not found in /home/tidasports/public_html/wp-includes/block-supports/border.php:168
+Stack trace:
+#0 {main}
+  thrown in /home/tidasports/public_html/wp-includes/block-supports/border.php on line 168
+[17-Dec-2023 13:47:53 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Class "WP_Block_Supports" not found in /home/tidasports/public_html/wp-includes/block-supports/dimensions.php:82
+Stack trace:
+#0 {main}
+  thrown in /home/tidasports/public_html/wp-includes/block-supports/dimensions.php on line 82
+[17-Dec-2023 13:47:55 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Class "WP_Block_Supports" not found in /home/tidasports/public_html/wp-includes/block-supports/dimensions.php:82
+Stack trace:
+#0 {main}
+  thrown in /home/tidasports/public_html/wp-includes/block-supports/dimensions.php on line 82
+[17-Dec-2023 13:48:08 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Class "WP_Block_Supports" not found in /home/tidasports/public_html/wp-includes/block-supports/duotone.php:36
+Stack trace:
+#0 {main}
+  thrown in /home/tidasports/public_html/wp-includes/block-supports/duotone.php on line 36
+[17-Dec-2023 13:48:10 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Class "WP_Block_Supports" not found in /home/tidasports/public_html/wp-includes/block-supports/duotone.php:36
+Stack trace:
+#0 {main}
+  thrown in /home/tidasports/public_html/wp-includes/block-supports/duotone.php on line 36
+[17-Dec-2023 13:48:25 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Call to undefined function add_filter() in /home/tidasports/public_html/wp-includes/block-supports/elements.php:125
+Stack trace:
+#0 {main}
+  thrown in /home/tidasports/public_html/wp-includes/block-supports/elements.php on line 125
+[17-Dec-2023 13:48:26 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Call to undefined function add_filter() in /home/tidasports/public_html/wp-includes/block-supports/elements.php:125
+Stack trace:
+#0 {main}
+  thrown in /home/tidasports/public_html/wp-includes/block-supports/elements.php on line 125
+[17-Dec-2023 13:48:48 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Class "WP_Block_Supports" not found in /home/tidasports/public_html/wp-includes/block-supports/layout.php:751
+Stack trace:
+#0 {main}
+  thrown in /home/tidasports/public_html/wp-includes/block-supports/layout.php on line 751
+[17-Dec-2023 13:48:49 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Class "WP_Block_Supports" not found in /home/tidasports/public_html/wp-includes/block-supports/layout.php:751
+Stack trace:
+#0 {main}
+  thrown in /home/tidasports/public_html/wp-includes/block-supports/layout.php on line 751
+[17-Dec-2023 13:49:14 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Class "WP_Block_Supports" not found in /home/tidasports/public_html/wp-includes/block-supports/position.php:145
+Stack trace:
+#0 {main}
+  thrown in /home/tidasports/public_html/wp-includes/block-supports/position.php on line 145
+[17-Dec-2023 13:49:15 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Class "WP_Block_Supports" not found in /home/tidasports/public_html/wp-includes/block-supports/position.php:145
+Stack trace:
+#0 {main}
+  thrown in /home/tidasports/public_html/wp-includes/block-supports/position.php on line 145
+[17-Dec-2023 13:49:32 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Call to undefined function add_filter() in /home/tidasports/public_html/wp-includes/block-supports/settings.php:151
+Stack trace:
+#0 {main}
+  thrown in /home/tidasports/public_html/wp-includes/block-supports/settings.php on line 151
+[17-Dec-2023 13:49:33 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Call to undefined function add_filter() in /home/tidasports/public_html/wp-includes/block-supports/settings.php:151
+Stack trace:
+#0 {main}
+  thrown in /home/tidasports/public_html/wp-includes/block-supports/settings.php on line 151
+[17-Dec-2023 13:49:46 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Class "WP_Block_Supports" not found in /home/tidasports/public_html/wp-includes/block-supports/shadow.php:76
+Stack trace:
+#0 {main}
+  thrown in /home/tidasports/public_html/wp-includes/block-supports/shadow.php on line 76
+[17-Dec-2023 13:49:52 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Class "WP_Block_Supports" not found in /home/tidasports/public_html/wp-includes/block-supports/shadow.php:76
+Stack trace:
+#0 {main}
+  thrown in /home/tidasports/public_html/wp-includes/block-supports/shadow.php on line 76
+[17-Dec-2023 13:50:13 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Class "WP_Block_Supports" not found in /home/tidasports/public_html/wp-includes/block-supports/spacing.php:76
+Stack trace:
+#0 {main}
+  thrown in /home/tidasports/public_html/wp-includes/block-supports/spacing.php on line 76
+[17-Dec-2023 13:50:14 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Class "WP_Block_Supports" not found in /home/tidasports/public_html/wp-includes/block-supports/spacing.php:76
+Stack trace:
+#0 {main}
+  thrown in /home/tidasports/public_html/wp-includes/block-supports/spacing.php on line 76
+[22-Jan-2024 07:07:45 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Class "WP_Block_Supports" not found in /home/tidasports/public_html/wp-includes/block-supports/border.php:168
+Stack trace:
+#0 {main}
+  thrown in /home/tidasports/public_html/wp-includes/block-supports/border.php on line 168
+[22-Jan-2024 07:07:46 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Class "WP_Block_Supports" not found in /home/tidasports/public_html/wp-includes/block-supports/border.php:168
+Stack trace:
+#0 {main}
+  thrown in /home/tidasports/public_html/wp-includes/block-supports/border.php on line 168
+[22-Jan-2024 07:07:48 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Class "WP_Block_Supports" not found in /home/tidasports/public_html/wp-includes/block-supports/dimensions.php:82
+Stack trace:
+#0 {main}
+  thrown in /home/tidasports/public_html/wp-includes/block-supports/dimensions.php on line 82
+[22-Jan-2024 07:07:49 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Class "WP_Block_Supports" not found in /home/tidasports/public_html/wp-includes/block-supports/dimensions.php:82
+Stack trace:
+#0 {main}
+  thrown in /home/tidasports/public_html/wp-includes/block-supports/dimensions.php on line 82
+[22-Jan-2024 07:07:50 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Class "WP_Block_Supports" not found in /home/tidasports/public_html/wp-includes/block-supports/duotone.php:36
+Stack trace:
+#0 {main}
+  thrown in /home/tidasports/public_html/wp-includes/block-supports/duotone.php on line 36
+[22-Jan-2024 07:07:51 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Class "WP_Block_Supports" not found in /home/tidasports/public_html/wp-includes/block-supports/duotone.php:36
+Stack trace:
+#0 {main}
+  thrown in /home/tidasports/public_html/wp-includes/block-supports/duotone.php on line 36
+[22-Jan-2024 07:07:53 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Call to undefined function add_filter() in /home/tidasports/public_html/wp-includes/block-supports/elements.php:125
+Stack trace:
+#0 {main}
+  thrown in /home/tidasports/public_html/wp-includes/block-supports/elements.php on line 125
+[22-Jan-2024 07:07:54 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Call to undefined function add_filter() in /home/tidasports/public_html/wp-includes/block-supports/elements.php:125
+Stack trace:
+#0 {main}
+  thrown in /home/tidasports/public_html/wp-includes/block-supports/elements.php on line 125
+[22-Jan-2024 07:07:55 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Class "WP_Block_Supports" not found in /home/tidasports/public_html/wp-includes/block-supports/layout.php:751
+Stack trace:
+#0 {main}
+  thrown in /home/tidasports/public_html/wp-includes/block-supports/layout.php on line 751
+[22-Jan-2024 07:07:57 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Class "WP_Block_Supports" not found in /home/tidasports/public_html/wp-includes/block-supports/layout.php:751
+Stack trace:
+#0 {main}
+  thrown in /home/tidasports/public_html/wp-includes/block-supports/layout.php on line 751
+[22-Jan-2024 07:07:58 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Class "WP_Block_Supports" not found in /home/tidasports/public_html/wp-includes/block-supports/position.php:145
+Stack trace:
+#0 {main}
+  thrown in /home/tidasports/public_html/wp-includes/block-supports/position.php on line 145
+[22-Jan-2024 07:08:00 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Class "WP_Block_Supports" not found in /home/tidasports/public_html/wp-includes/block-supports/position.php:145
+Stack trace:
+#0 {main}
+  thrown in /home/tidasports/public_html/wp-includes/block-supports/position.php on line 145
+[22-Jan-2024 07:08:01 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Call to undefined function add_filter() in /home/tidasports/public_html/wp-includes/block-supports/settings.php:151
+Stack trace:
+#0 {main}
+  thrown in /home/tidasports/public_html/wp-includes/block-supports/settings.php on line 151
+[22-Jan-2024 07:08:02 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Call to undefined function add_filter() in /home/tidasports/public_html/wp-includes/block-supports/settings.php:151
+Stack trace:
+#0 {main}
+  thrown in /home/tidasports/public_html/wp-includes/block-supports/settings.php on line 151
+[22-Jan-2024 07:08:04 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Class "WP_Block_Supports" not found in /home/tidasports/public_html/wp-includes/block-supports/shadow.php:76
+Stack trace:
+#0 {main}
+  thrown in /home/tidasports/public_html/wp-includes/block-supports/shadow.php on line 76
+[22-Jan-2024 07:08:05 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Class "WP_Block_Supports" not found in /home/tidasports/public_html/wp-includes/block-supports/shadow.php:76
+Stack trace:
+#0 {main}
+  thrown in /home/tidasports/public_html/wp-includes/block-supports/shadow.php on line 76
+[22-Jan-2024 07:08:06 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Class "WP_Block_Supports" not found in /home/tidasports/public_html/wp-includes/block-supports/spacing.php:76
+Stack trace:
+#0 {main}
+  thrown in /home/tidasports/public_html/wp-includes/block-supports/spacing.php on line 76
+[22-Jan-2024 07:08:07 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Class "WP_Block_Supports" not found in /home/tidasports/public_html/wp-includes/block-supports/spacing.php:76
+Stack trace:
+#0 {main}
+  thrown in /home/tidasports/public_html/wp-includes/block-supports/spacing.php on line 76

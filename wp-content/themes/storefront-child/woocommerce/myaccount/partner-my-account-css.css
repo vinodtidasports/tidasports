@@ -1,0 +1,12 @@
+/* For Partner Booking Order Page */
+
+.order-again{
+	display:none;
+}
+
+/* For Partner Subscription Order Page */
+
+.order-actions.woocommerce-orders-table__header.woocommerce-orders-table__header-order-actions,
+.order-actions.woocommerce-orders-table__cell.woocommerce-orders-table__cell-order-actions{
+	display: none !important;
+}

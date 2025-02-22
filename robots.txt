@@ -1,0 +1,2 @@
+User-agent: *
+Disallow: /tida_notification_service/

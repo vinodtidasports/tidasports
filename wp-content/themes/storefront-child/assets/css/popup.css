@@ -1,0 +1,90 @@
+/* Styles for the popup dialog */
+.child-theme-popup {
+    width: 100%;
+    max-width: 640px;
+    padding: 0;
+    border: none;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+    background-color: #fff;
+    overflow: hidden;
+    text-align: center;
+    margin-top: 168px;
+}
+
+.child-theme-popup-wrapper{
+    position: relative;
+    padding: 4px;
+    background: #fff;
+    border-radius: 8px;
+}
+
+/* Styling for the popup image */
+.child-theme-popup-image {
+    width: 100%;
+    height: auto;
+    max-width: 100%;
+    display: block;
+    margin: 0 auto;
+    border-radius: 8px;
+}
+
+/* Styling for the close button */
+.child-theme-close-btn {
+    background-color: #333;
+    color: #fff;
+    border: none;
+    padding: 0;
+    margin: 0;
+    cursor: pointer;
+    display: block;
+    transition: background-color 0.3s;
+    position: absolute;
+    right: 0px;
+    top: 0px;
+    height: 28px;
+    width: 28px;
+    border-radius: 50%;
+    overflow: hidden;
+    vertical-align: middle;
+}
+
+.child-theme-close-btn svg{
+    height: 28px;
+    width: 28px;
+    margin: 0;
+    padding: 0;
+    background: #fff;
+}
+
+.child-theme-close-btn:hover {
+    background-color: #555;
+}
+
+/* Optional: Add a fade-in effect for the dialog */
+dialog::backdrop {
+    background-color: rgba(0, 0, 0, 0.5);
+    transition: all 0.3s ease;
+}
+
+/*
+     FILE ARCHIVED ON 00:40:59 Oct 04, 2024 AND RETRIEVED FROM THE
+     INTERNET ARCHIVE ON 10:13:02 Dec 09, 2024.
+     JAVASCRIPT APPENDED BY WAYBACK MACHINE, COPYRIGHT INTERNET ARCHIVE.
+
+     ALL OTHER CONTENT MAY ALSO BE PROTECTED BY COPYRIGHT (17 U.S.C.
+     SECTION 108(a)(3)).
+*/
+/*
+playback timings (ms):
+  captures_list: 0.656
+  exclusion.robots: 0.019
+  exclusion.robots.policy: 0.007
+  esindex: 0.012
+  cdx.remote: 18.634
+  LoadShardBlock: 87.145 (3)
+  PetaboxLoader3.datanode: 310.248 (5)
+  load_resource: 300.731
+  PetaboxLoader3.resolve: 44.994
+  loaddict: 95.951
+*/

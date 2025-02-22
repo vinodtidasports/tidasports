@@ -1,0 +1,24 @@
+{
+	"$schema": "https://schemas.wp.org/wp/6.5/theme.json",
+	"version": "2",
+	"settings": {
+		"typography": {
+			"fontFamilies": [
+				{
+					"fontFamily": "neutra-display",
+					"slug": "neutra-display",
+					"fontFace": [
+						{
+							"fontFamily": "neutra-display",
+							"fontStretch": "",
+							"fontStyle": "normal",
+							"fontWeight": "700",
+							"src": "https://tidasports.com/wp-content/uploads/useanyfont/2275NEUTRA-DISPLAY.woff2"
+						}
+					],
+					"isUAF": true
+				}
+			]
+		}
+	}
+}
